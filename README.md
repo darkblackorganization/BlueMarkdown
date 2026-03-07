@@ -1,57 +1,105 @@
-*   **Basic Syntax & Comments**
-    *   `# This is a single-line comment`
-    *   Variables: `x = 10`, `name = "Python"` (dynamic typing)
-*   **Data Types**
-    *   **Numbers**: `int` (10), `float` (3.14), `complex`
-    *   **Strings**: `"hello"`, `'world'`, multi-line `"""multiple lines"""`
-    *   **Lists**: Ordered, mutable collection `[1, 2, 'a']`
-    *   **Tuples**: Ordered, immutable collection `(1, 2, 'a')`
-    *   **Dictionaries**: Unordered, mutable key-value pairs `{'name': 'Alice', 'age': 30}`
-    *   **Sets**: Unordered collection of unique elements `{1, 2, 3}`
-*   **Operators**
-    *   **Arithmetic**: `+`, `-`, `*`, `/`, `%` (modulo), `**` (exponent), `//` (floor division)
-    *   **Comparison**: `==`, `!=`, `<`, `>`, `<=`, `>=`
-    *   **Logical**: `and`, `or`, `not`
-    *   **Assignment**: `=`, `+=`, `-=`, `*=` etc.
-*   **Control Flow**
-    *   **If/Elif/Else**:
-        ```python
-        if condition1:
-            # code
-        elif condition2:
-            # code
-        else:
-            # code
-        ```
-    *   **For Loop** (iteration over sequences):
-        ```python
-        for item in [1, 2, 3]:
-            print(item)
-        for i in range(5): # 0, 1, 2, 3, 4
-            print(i)
-        ```
-    *   **While Loop**:
-        ```python
-        count = 0
-        while count < 3:
-            print(count)
-            count += 1
-        ```
-*   **Functions**
-    *   **Definition**:
-        ```python
-        def greet(name):
-            return f"Hello, {name}!"
-        ```
-    *   **Calling**: `message = greet("Bob")`
-*   **Input/Output**
-    *   **Output**: `print("Hello, World!")`, `print(f"Value is {var}")`
-    *   **Input**: `name = input("Enter your name: ")` (returns string)
-*   **Common String Methods**
-    *   `str.lower()`, `str.upper()`
-    *   `str.strip()` (removes whitespace)
-    *   `str.split(',')` (splits into list)
-    *   `"-".join(list_of_strings)`
+# PHP Conditionals
+
+<style>
+.code-card{
+position:relative;
+background:#1e293b;
+padding:22px;
+border-radius:14px;
+margin:30px 0;
+box-shadow:0 10px 25px rgba(0,0,0,0.3);
+}
+
+.code-label{
+position:absolute;
+top:-12px;
+right:15px;
+
+background:linear-gradient(90deg,#7c3aed,#a855f7);
+color:white;
+
+padding:6px 14px;
+font-size:12px;
+border-radius:8px;
+font-weight:500;
+}
+
+pre{
+background:#0f172a;
+padding:15px;
+border-radius:10px;
+overflow:auto;
+color:#e2e8f0;
+}
+</style>
+
+---
+
+<div class="code-card">
+
+<span class="code-label">If elseif else</span>
+
+```php
+$a = 10;
+$b = 20;
+
+if ($a > $b) {
+    echo "a is bigger than b";
+} elseif ($a == $b) {
+    echo "a is equal to b";
+} else {
+    echo "a is smaller than b";
+}
+```
+
+</div>
+
+---
+
+<div class="code-card">
+
+<span class="code-label">Switch</span>
+
+```php
+$x = 0;
+
+switch ($x) {
+    case '0':
+        print "it's zero";
+        break;
+
+    case 'two':
+    case 'three':
+        // do something
+        break;
+
+    default:
+        // do something
+}
+```
+
+</div>
+
+---
+
+<div class="code-card">
+
+<span class="code-label">Ternary operator</span>
+
+```php
+print (false ? 'Not' : 'Does');
+
+$x = false;
+print($x ?: 'Does');
+
+$a = null;
+$b = 'Does print';
+
+echo $a ?? 'a is unset';
+echo $b ?? 'b is unset';
+```
+
+</div>    *   `"-".join(list_of_strings)`
     *   `str.replace('old', 'new')`
     *   `str.startswith('prefix')`, `str.endswith('suffix')`
 *   **Common List Methods**
