@@ -1,14 +1,4 @@
 
-<style>
-table, th, td { border: 1px solid #ccc; border-collapse: collapse; padding: 6px 12px; }
-th { background-color: #f5f5f5; }
-code { background-color: #f0f0f0; padding: 2px 6px; border-radius: 4px; font-size: 0.95em; }
-pre { background-color: #f8f8f8; padding: 12px; border-radius: 6px; overflow-x: auto; }
-blockquote { border-left: 4px solid #6319bf; padding-left: 10px; color: #555; margin-left: 0; font-style: italic; }
-</style>
-
----
-
 ### 🔹 Headers
 
 **ATX Style (using `#`)**
