@@ -3,7 +3,7 @@
 
 **ATX Style (using `#`)**
 
-```markdown
+```
 # H1 - Largest
 ## H2
 ### H3
@@ -14,7 +14,7 @@
 
 **Setext Style (underline)**
 
-```markdown
+```
 Header 1
 ========
 
@@ -28,7 +28,7 @@ Header 2
 
 ### 🔹 Emphasis
 
-```markdown
+```
 *italic* or _italic_
 **bold** or __bold__
 ~~strikethrough~~
