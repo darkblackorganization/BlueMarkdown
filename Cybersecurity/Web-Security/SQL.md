@@ -1,13 +1,3 @@
-# Sql injection cheat sheets (can be found also [here](https://portswigger.net/web-security/sql-injection/cheat-sheet))
-This [SQL injection](https://portswigger.net/web-security/sql-injection) cheat sheet contains examples of useful syntax that you can use to perform a variety of tasks that often arise when performing SQL injection attacks. 
-
-#
-#
-
-- ***Feel free to open Issue and suggest me cheatsheets to add or fix mistakes i made***
-#
-#
-
 ## How to detect SQL injection
 *SQL injection can be detected manually by using a systematic set of tests against every entry point in the application. This typically involves:*
 -  Submitting the single quote character ``'`` and looking for errors or other anomalies.
