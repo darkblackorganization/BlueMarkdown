@@ -1,22 +1,6 @@
----
-title: Java
-date: 2021-03-10 19:50:01
-background: bg-[#d33731]
-tags:
-  - object-oriented
-  - class
-categories:
-  - Programming
-intro: |
-  This cheat sheet is a crash course for Java beginners and help review the basic syntax of the Java language.
-plugins:
-  - tooltip
-  - copyCode
----
 
-## Getting Started
 
-### Hello.java {.row-span-2}
+### Hello.java
 
 ```java
 public class Hello {
