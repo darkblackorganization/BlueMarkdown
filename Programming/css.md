@@ -1,23 +1,5 @@
----
-title: CSS 3
-date: 2020-12-25 20:22:47
-background: bg-[#3473b5]
-tags:
-  - web
-  - css
-  - style
-categories:
-  - Programming
-intro: |
-  This is a quick reference cheat sheet for CSS goodness, listing selector syntax, properties, units and other useful bits of information.
-plugins:
-  - copyCode
-  - runCode
----
 
-## Getting Started
-
-### Introduction {.row-span-3}
+### Introduction
 
 CSS is rich in capabilities and is more than simply laying out pages.
 
