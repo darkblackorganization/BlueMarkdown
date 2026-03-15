@@ -1,13 +1,4 @@
----
-title: EJS
-date: 2023-04-07
-background: bg-[#b4ca65]
-tags:
-  - EJS
-  - Frontend
-  - Framework
-categories:
-  - Programming
+
 intro: EJS(Embedded JavaScript) is a simple templating language that lets you generate HTML markup with plain JavaScript.
 plugins:
   - copyCode
