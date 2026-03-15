@@ -1,15 +1,4 @@
 
-intro: EJS(Embedded JavaScript) is a simple templating language that lets you generate HTML markup with plain JavaScript.
-plugins:
-  - copyCode
-  - runCode
----
-
-<!-- NOTE: EJS does not have Prettier support, so manually format and add a prettier-ignore above broken code blocks -->
-
-## Get Started { .cols-3 }
-
-### Hello world
 
 #### install
 
