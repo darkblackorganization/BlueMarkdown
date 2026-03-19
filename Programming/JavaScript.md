@@ -2,17 +2,14 @@
 
 JavaScript is a lightweight, interpreted programming language.
 
-- [JSON cheatsheet](/json) _(cheatsheets.zip)_
-- [Regex in JavaScript](/regex#regex-in-javascript) _(cheatsheets.zip)_
-
 ### Console
 
 ```javascript
 // => Hello world!
 console.log('Hello world!');
 
-// => Hello CheatSheets.zip
-console.warn('hello %s', 'CheatSheets.zip');
+// => Hello bluemd.in
+console.warn('hello %s', 'bluemd.in');
 
 // Prints error message to stderr
 console.error(new Error('Oops!'));
@@ -142,7 +139,7 @@ var x = 1;
 result = x == 1 ? true : false;
 ```
 
-### Operators {.row-span-2}
+### Operators
 
 ```javascript
 true || false; // true
@@ -293,7 +290,7 @@ const rocketToMars = function () {
 };
 ```
 
-### Arrow Functions (ES6) {.row-span-2}
+### Arrow Functions
 
 #### With two arguments
 
