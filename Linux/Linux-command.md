@@ -1,10 +1,10 @@
-### Introduction
+## Introduction
 
 Linux is a powerful open-source operating system widely used in servers, cloud platforms, and DevOps environments. Whether you're managing servers, deploying applications, or automating workflows, Linux commands are the backbone of daily operations.
 
 
 
-#  Linux Basics
+##  Linux Basics
 
 ### Show current directory path
 ```bash
@@ -85,7 +85,7 @@ chown user:group file
 
 ---
 
-#  Process Management
+##  Process Management
 
 ### Show running processes
 
@@ -137,7 +137,7 @@ renice -n 5 PID
 
 ---
 
-#  Package Management (Ubuntu/Debian)
+##  Package Management (Ubuntu/Debian)
 
 ### Update package list
 
@@ -177,7 +177,7 @@ apt autoremove
 
 ---
 
-#  Networking
+##  Networking
 
 ### Show IP address
 
@@ -217,7 +217,7 @@ curl -X GET url
 
 ---
 
-#  Disk & File System
+##  Disk & File System
 
 ### Show disk usage
 
@@ -251,7 +251,7 @@ umount /mnt
 
 ---
 
-#  Users & Permissions
+##  Users & Permissions
 
 ### Show current user
 
@@ -291,7 +291,7 @@ sudo command
 
 ---
 
-#  Archive & Compression
+##  Archive & Compression
 
 ### Create archive
 
@@ -331,7 +331,7 @@ gunzip file.gz
 
 ---
 
-#  Git (Version Control)
+##  Git (Version Control)
 
 ### Initialize repository
 
@@ -395,7 +395,7 @@ git checkout branch_name
 
 ---
 
-#  Docker
+##  Docker
 
 ### Build image
 
@@ -453,7 +453,7 @@ docker exec -it container_id bash
 
 ---
 
-#  Kubernetes (kubectl)
+##  Kubernetes (kubectl)
 
 ### List pods
 
@@ -505,7 +505,7 @@ kubectl exec -it pod_name -- bash
 
 ---
 
-#  CI/CD & System
+##  CI/CD & System
 
 ### Start service
 
@@ -539,7 +539,7 @@ journalctl -u service
 
 ---
 
-#  Monitoring & Logs
+##  Monitoring & Logs
 
 ### Memory usage
 
@@ -579,7 +579,7 @@ grep "text" file
 
 ---
 
-#  Bonus One-Liners
+##  Bonus One-Liners
 
 ### Find large files
 
@@ -601,7 +601,7 @@ watch -n 1 "df -h"
 
 ---
 
-#  Final Note
+##  Final Note
 
 This cheat sheet is created to help developers and DevOps engineers quickly access important commands in real-world scenarios.
 
