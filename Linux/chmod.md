@@ -1,18 +1,6 @@
----
-title: Chmod
-date: 2021-07-01 10:51:44
-background: bg-indigo-600
-tags:
-  - permission
-categories:
-  - Linux Command
-intro: |
-  This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
-plugins:
-  - copyCode
----
 
-## Getting Started
+## Introduction 
+This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
 
 ### Syntax
 
@@ -262,9 +250,3 @@ $ find /path -type d -exec chmod 755 {} \;
 $ find /path -type f -exec chmod 644 {} \;
 ```
 
-See: [Command Substitution](https://tldp.org/LDP/abs/html/commandsub.html)
-
-## Also see
-
-- [Modify File Permissions with chmod](https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)
-  _(linode.com)_
