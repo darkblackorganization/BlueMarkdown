@@ -319,6 +319,3 @@ Git commands are the backbone of modern software development. Mastering them wil
 ---
 
 **🔥 Keep this cheat sheet bookmarked on bluemd.in for quick reference!**
-
-```
-```
