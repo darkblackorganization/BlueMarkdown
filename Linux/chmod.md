@@ -1,6 +1,6 @@
 
 ## Introduction 
-This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
+chmod (short for change mode) is a command used in Unix and Linux systems to change the permissions of files and directories. Permissions control who can read, write, or execute a file. This is an important part of system security because it determines how users can interact with files.
 
 ### Syntax
 
