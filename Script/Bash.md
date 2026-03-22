@@ -1,85 +1,4 @@
-# Bash Scripting Cheat Sheet
 
-![Bash-Scripting-Cheat-Sheet](https://socialify.git.ci/king04aman/Bash-Scripting-Cheatsheet/image?description=1&font=Jost&forks=1&issues=1&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Circuit%20Board&pulls&pulls=1&stargazers=1&theme=Dark)
-
-_Welcome to the Bash Scripting Cheat Sheet repository! This project aims to be a comprehensive and beginner-friendly resource for learning and mastering Bash scripting. Whether you're a seasoned developer or just starting with shell scripting, this cheat sheet will serve as a handy reference guide._
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Basic Syntax](#basic-syntax)
-- [Variables](#variables)
-- [Control Structures](#control-structures)
-  - [Boolean Operators](#boolean-operators)
-  - [Numeric Operators](#numeric-operators)
-  - [String Operators](#string-operators)
-  - [If Statements](#if-statements)
-  - [Inline If Statements](#inline-if-statements)
-  - [While Loops](#while-loops)
-  - [For Loops](#for-loops)
-  - [Case Statements](#case-statements)
-- [Functions](#functions)
-- [File Operations](#file-operations)
-  - [Check Disk Usage](#check-disk-usage)
-  - [Monitor CPU Usage](#monitor-cpu-usage)
-  - [Display System Information](#display-system-information)
-  - [Backup Files](#backup-files)
-  - [Check Network Connectivity](#check-network-connectivity)
-  - [Check Available Memory](#check-available-memory)
-  - [Monitor Disk Usage of a Specific Directory](#monitor-disk-usage-of-a-specific-directory)
-  - [List Running Processes](#list-running-processes)
-  - [Display Current Date and Time](#display-current-date-and-time)
-  - [Generate Random Password](#generate-random-password)
-  - [Check System Load Average](#check-system-load-average)
-  - [Monitor Network Traffic](#monitor-network-traffic)
-  - [Search for a File](#search-for-a-file)
-  - [Display System Users](#display-system-users)
-  - [Check System Uptime](#check-system-uptime)
-- [Text Processing](#text-processing)
-  - [Replace in Files](#replace-in-files)
-  - [Symbolic Links](#symbolic-links)
-  - [Compressing Files](#compressing-files)
-    - [zip](#zip)
-    - [gzip](#gzip)
-    - [tar -c](#tar--c)
-  - [Decompressing Files](#decompressing-files)
-    - [unzip](#unzip)
-    - [gunzip](#gunzip)
-    - [tar -x](#tar--x)
-- [Command-Line Arguments](#command-line-arguments)
-- [Common Utilities](#common-utilities)
-  - [HTTP Requests](#http-requests)
-  - [Network Troubleshooting](#network-troubleshooting)
-  - [DNS](#dns)
-  - [Hardware](#hardware)
-  - [Terminal Multiplexers](#terminal-multiplexers)
-  - [Secure Shell Protocol (SSH)](#secure-shell-protocol-ssh)
-  - [Secure Copy](#secure-copy)
-  - [Bash Profile](#bash-profile)
-  - [Bash Script](#bash-script)
-    - [Variables](#variables)
-    - [Environment Variables](#environment-variables)
-    - [Functions](#functions)
-    - [Exit Codes](#exit-codes)
-  - [Conditional Statements](#conditional-statements)
-    - [Boolean Operators](#boolean-operators)
-    - [Numeric Operators](#numeric-operators)
-    - [String Operators](#string-operators)
-    - [If Statements](#if-statements)
-    - [Inline If Statements](#inline-if-statements)
-    - [While Loops](#while-loops)
-    - [For Loops](#for-loops)
-    - [Case Statements](#case-statements)
-- [Input/Ouput Redirectors](#input-output-redirectors)
-- [Command Line Processing Cycle](#command-line-processing-cycle)
-- [Debugging Script](#debugging-shell-scripts)
-- [Colors and Styles](#colors-and-styles)
-- [Tips and Tricks](#tips-and-tricks)
-- [Shortcut Keys](#shortcut-keys)
-- [Best Practices](#best-practices)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -87,13 +6,6 @@ Bash (Bourne Again SHell) is a powerful and widely used shell scripting language
 
 This cheat sheet is designed to help you understand and utilize Bash scripting effectively. It covers essential concepts, syntax, and common patterns, making it an ideal resource for both beginners and experienced developers.
 
-## Getting Started
-
-If you're new to Bash scripting, here are some resources to help you get started:
-
-- [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
-- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
-- [Bash Academy](https://guide.bash.academy/)
 
 ## Basic Syntax
 
@@ -1412,21 +1324,3 @@ CTRL+A then D       # Logout from screen but don't kill it, if any command exist
 BACKSPACE  # Delete one character backward
 DELETE     # Delete one character under the cursor
 ```
-
-## Best Practices
-
-Follow best practices to write clean and maintainable Bash scripts:
-
-- Use meaningful variable names.
-- Add comments to explain complex sections.
-- Check for errors and handle them gracefully.
-
-## Contributing
-
-We welcome contributions from the community! If you have improvements or additional content to add, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This Bash Scripting Cheat Sheet is licensed under the [MIT License](LICENSE.md). Feel free to use, share, and modify the content as per the terms of the license.
-
-<h3 align='center'>🎉 😃 Happy Scripting 🚀 🎉 </h3>
