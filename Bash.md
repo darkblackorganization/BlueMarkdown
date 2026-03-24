@@ -4,61 +4,6 @@
 
 **Bash** (short for *Bourne Again Shell*) is a command-line interpreter used in operating systems like Linux and macOS that allows users to interact with the system using text commands. It was created in **1989** by **Brian Fox** as part of the GNU Project. Bash was designed to replace the older Bourne Shell (`sh`), adding more powerful features like scripting, command history, and easier automation. The main reason Bash was developed was to provide a free and improved shell for Unix-like systems, helping users and developers efficiently control their systems, automate tasks, and manage files and programs through simple commands instead of graphical interfaces.
 
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [File & Directory Commands](#file--directory-commands)
-3. [File Handling](#file-handling)
-4. [Search & Find](#search--find)
-5. [System Info](#system-info)
-6. [Network](#network)
-7. [Package Management](#package-management)
-8. [Variables](#variables)
-9. [Environment Variables](#environment-variables)
-10. [Special Variables](#special-variables)
-11. [String Operations](#string-operations)
-12. [Arithmetic](#arithmetic)
-13. [Boolean Operators](#boolean-operators)
-14. [Numeric Operators](#numeric-operators)
-15. [String Operators](#string-operators)
-16. [File Test Operators](#file-test-operators)
-17. [If Statements](#if-statements)
-18. [Inline If Statements](#inline-if-statements)
-19. [Case Statements](#case-statements)
-20. [While Loops](#while-loops)
-21. [For Loops](#for-loops)
-22. [Until Loops](#until-loops)
-23. [Select Loop](#select-loop)
-24. [Arrays](#arrays)
-25. [Associative Arrays](#associative-arrays)
-26. [Functions](#functions)
-27. [Exit Codes](#exit-codes)
-28. [Input / Output Redirection](#input--output-redirection)
-29. [Pipes](#pipes)
-30. [Text Processing](#text-processing)
-31. [File Operations](#file-operations)
-32. [Compression & Archiving](#compression--archiving)
-33. [Symbolic Links](#symbolic-links)
-34. [Permissions & Ownership](#permissions--ownership)
-35. [Process Management](#process-management)
-36. [Disk & Memory](#disk--memory)
-37. [SSH & Remote](#ssh--remote)
-38. [HTTP Requests](#http-requests)
-39. [DNS & Network Troubleshooting](#dns--network-troubleshooting)
-40. [Hardware Info](#hardware-info)
-41. [Terminal Multiplexers](#terminal-multiplexers)
-42. [Bash Script](#bash-script)
-43. [Bash Profile & Aliases](#bash-profile--aliases)
-44. [Debugging Scripts](#debugging-scripts)
-45. [Colors and Styles](#colors-and-styles)
-46. [Shortcut Keys](#shortcut-keys)
-47. [Tips and Tricks](#tips-and-tricks)
-48. [Best Practices](#best-practices)
-
----
-
 ## Basic Syntax
 
 **Definition:** Every Bash command follows this structure:
