@@ -1,0 +1,11 @@
+{
+  "cheatsheets": [
+    {
+      "title": "Bash Cheat Sheet",
+      "slug": "bash",
+      "file": "bash.md",
+      "category": "scripting",
+      "description": "Learn Bash fast"
+    }
+  ]
+}
