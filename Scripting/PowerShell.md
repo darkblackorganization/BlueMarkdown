@@ -96,39 +96,48 @@ New-Item -ItemType File -Name "notes.txt"       # Create empty file
 
 **Definition:** Commands to create, copy, move, rename, delete, and read files.
 
-```powershell
-# Create
+### Create
+```
 New-Item -Path "C:\file.txt" -ItemType File       # Create file
 New-Item -Path "C:\folder" -ItemType Directory    # Create folder
+```
 
-# Read
+### Read
+```
 Get-Content file.txt              # Read full file (like cat)
 Get-Content file.txt -Head 10     # First 10 lines
 Get-Content file.txt -Tail 10     # Last 10 lines
 Get-Content file.txt -Wait        # Live follow (like tail -f)
+```
 
-# Write
+### Write
+```
 Set-Content file.txt "Hello"      # Write (overwrite)
 Add-Content file.txt "New line"   # Append to file
 Out-File file.txt                 # Redirect output to file
+```
 
-# Copy, Move, Rename
+### Copy, Move, Rename
+```
 Copy-Item file.txt backup.txt     # Copy file
 Copy-Item dir/ dest/ -Recurse     # Copy folder recursively
 Move-Item file.txt C:\dest\       # Move file
 Rename-Item old.txt new.txt       # Rename file
+```
 
-# Delete
+### Delete
+```
 Remove-Item file.txt              # Delete file
 Remove-Item folder -Recurse       # Delete folder and contents
 Remove-Item *.log                 # Delete all .log files
+```
 
-# Test existence
+### Test existence
+```
 Test-Path "C:\file.txt"           # Returns True / False
 Test-Path "C:\folder" -PathType Container  # Check if directory
 ```
 
----
 
 ## Variables
 
