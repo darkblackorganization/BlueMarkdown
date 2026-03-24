@@ -1,59 +1,8 @@
-# PowerShell Cheat Sheet
 
 ## Introduction
 
 **PowerShell** is a cross-platform task automation shell and scripting language built on the **.NET framework**. It was created by **Jeffrey Snover** at Microsoft and first released in **2006**. Unlike traditional command-line shells that work with plain text, PowerShell works with **objects** — making it far more powerful for automation, system administration, and DevOps tasks. PowerShell is available on **Windows, Linux, and macOS** (PowerShell 7+). It uses **cmdlets** (pronounced "command-lets") as its core commands, following a consistent `Verb-Noun` naming pattern like `Get-Process`, `Set-Item`, `Remove-File`.
 
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [Getting Help](#getting-help)
-3. [Navigation & File System](#navigation--file-system)
-4. [File Handling](#file-handling)
-5. [Variables](#variables)
-6. [Data Types](#data-types)
-7. [String Operations](#string-operations)
-8. [Arithmetic Operators](#arithmetic-operators)
-9. [Comparison Operators](#comparison-operators)
-10. [Logical Operators](#logical-operators)
-11. [If Statements](#if-statements)
-12. [Switch Statements](#switch-statements)
-13. [While Loop](#while-loop)
-14. [For Loop](#for-loop)
-15. [ForEach Loop](#foreach-loop)
-16. [Do-While & Do-Until](#do-while--do-until)
-17. [Arrays](#arrays)
-18. [Hash Tables](#hash-tables)
-19. [Functions](#functions)
-20. [Parameters & Arguments](#parameters--arguments)
-21. [Error Handling](#error-handling)
-22. [Pipeline](#pipeline)
-23. [Filtering & Sorting](#filtering--sorting)
-24. [String Formatting & Output](#string-formatting--output)
-25. [File I/O](#file-io)
-26. [Regular Expressions](#regular-expressions)
-27. [Working with Objects](#working-with-objects)
-28. [Process Management](#process-management)
-29. [System Information](#system-information)
-30. [Network Commands](#network-commands)
-31. [User & Permission Management](#user--permission-management)
-32. [Registry (Windows)](#registry-windows)
-33. [Modules](#modules)
-34. [Remoting (PSRemoting)](#remoting-psremoting)
-35. [Scheduled Tasks](#scheduled-tasks)
-36. [PowerShell Scripts (.ps1)](#powershell-scripts-ps1)
-37. [Execution Policy](#execution-policy)
-38. [Environment Variables](#environment-variables)
-39. [Aliases](#aliases)
-40. [Profile & Configuration](#profile--configuration)
-41. [Debugging Scripts](#debugging-scripts)
-42. [Shortcut Keys](#shortcut-keys)
-43. [Tips and Tricks](#tips-and-tricks)
-44. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax
 
