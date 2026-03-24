@@ -3,9 +3,9 @@
     {
       "title": "Bash Cheat Sheet",
       "slug": "bash",
-      "file": "bash.md",
-      "category": "scripting",
-      "description": "Learn Bash fast"
+      "description": "Learn Bash quickly",
+      "categoryName": "Scripting",
+      "file": "bash.md"
     }
   ]
 }
