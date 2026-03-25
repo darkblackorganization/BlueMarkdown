@@ -1,63 +1,6 @@
-# JavaScript Cheat Sheet
-
 ## Introduction
 
 **JavaScript** is a lightweight, interpreted, multi-paradigm programming language created by **Brendan Eich** in **1995**. It is the only programming language that runs natively in web browsers — making it the backbone of interactive web applications. JavaScript can manipulate HTML and CSS, respond to user events, fetch data from servers, and much more. With **Node.js**, JavaScript also runs on the server side. The modern standard is **ES6+** (ECMAScript 2015 and beyond) which brought classes, arrow functions, promises, modules, and many other powerful features.
-
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [Variables](#variables)
-3. [Data Types](#data-types)
-4. [Type Conversion](#type-conversion)
-5. [String Operations](#string-operations)
-6. [Template Literals](#template-literals)
-7. [Numbers & Math](#numbers--math)
-8. [Operators](#operators)
-9. [Comparison & Equality](#comparison--equality)
-10. [Logical Operators](#logical-operators)
-11. [If Statements](#if-statements)
-12. [Switch Statement](#switch-statement)
-13. [Ternary Operator](#ternary-operator)
-14. [While Loop](#while-loop)
-15. [For Loop](#for-loop)
-16. [Loop Control](#loop-control)
-17. [Functions](#functions)
-18. [Arrow Functions](#arrow-functions)
-19. [Scope](#scope)
-20. [Closures](#closures)
-21. [Arrays](#arrays)
-22. [Array Methods](#array-methods)
-23. [Objects](#objects)
-24. [Object Methods](#object-methods)
-25. [Destructuring](#destructuring)
-26. [Spread & Rest](#spread--rest)
-27. [Classes & OOP](#classes--oop)
-28. [Prototypes](#prototypes)
-29. [Error Handling](#error-handling)
-30. [Promises](#promises)
-31. [Async / Await](#async--await)
-32. [Fetch API](#fetch-api)
-33. [DOM Selection](#dom-selection)
-34. [DOM Manipulation](#dom-manipulation)
-35. [Events](#events)
-36. [Local Storage & Session Storage](#local-storage--session-storage)
-37. [JSON](#json)
-38. [Modules (ES6)](#modules-es6)
-39. [Regular Expressions](#regular-expressions)
-40. [Date & Time](#date--time)
-41. [Iterators & Generators](#iterators--generators)
-42. [Map & Set](#map--set)
-43. [Symbol & WeakMap](#symbol--weakmap)
-44. [Proxy & Reflect](#proxy--reflect)
-45. [Useful Built-in Methods](#useful-built-in-methods)
-46. [Debugging](#debugging)
-47. [Tips & Tricks](#tips--tricks)
-48. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax
 
