@@ -1,53 +1,7 @@
-# Python Cheat Sheet
-
 ## Introduction
 
 **Python** is a high-level, interpreted, general-purpose programming language created by **Guido van Rossum** and first released in **1991**. Python emphasizes **code readability** and simplicity — its clean syntax lets developers express ideas in fewer lines than most other languages. Python is used everywhere: **web development**, **data science**, **machine learning**, **automation**, **scripting**, **APIs**, and more. It runs on Windows, Linux, and macOS, and comes with a massive standard library plus a huge ecosystem of third-party packages via **pip**.
 
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [Variables & Assignment](#variables--assignment)
-3. [Data Types](#data-types)
-4. [Type Conversion](#type-conversion)
-5. [String Operations](#string-operations)
-6. [Lists](#lists)
-7. [Tuples](#tuples)
-8. [Sets](#sets)
-9. [Dictionaries](#dictionaries)
-10. [Operators](#operators)
-11. [If Statements](#if-statements)
-12. [While Loop](#while-loop)
-13. [For Loop](#for-loop)
-14. [Loop Control](#loop-control)
-15. [Functions](#functions)
-16. [Lambda Functions](#lambda-functions)
-17. [Scope](#scope)
-18. [Classes & OOP](#classes--oop)
-19. [Inheritance](#inheritance)
-20. [Error Handling](#error-handling)
-21. [File Handling](#file-handling)
-22. [List Comprehensions](#list-comprehensions)
-23. [Iterators & Generators](#iterators--generators)
-24. [Decorators](#decorators)
-25. [Modules & Imports](#modules--imports)
-26. [Built-in Functions](#built-in-functions)
-27. [String Formatting](#string-formatting)
-28. [Regular Expressions](#regular-expressions)
-29. [Date & Time](#date--time)
-30. [Math Module](#math-module)
-31. [Working with JSON](#working-with-json)
-32. [Working with CSV](#working-with-csv)
-33. [OS & File System](#os--file-system)
-34. [Virtual Environments](#virtual-environments)
-35. [pip — Package Manager](#pip--package-manager)
-36. [Debugging](#debugging)
-37. [Shortcut Tips](#shortcut-tips)
-38. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax
 
