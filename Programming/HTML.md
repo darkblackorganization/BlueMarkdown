@@ -1,45 +1,8 @@
-# HTML Cheat Sheet
 
 ## Introduction
 
 **HTML** (HyperText Markup Language) is the standard language for creating web pages. Created by **Tim Berners-Lee** in **1991**, HTML defines the **structure and content** of a webpage using **elements** wrapped in **tags**. Every website you visit is built on HTML — it tells the browser what to display: headings, paragraphs, images, links, forms, tables, and more. The latest version is **HTML5**, which added powerful features like video, audio, canvas, and semantic elements. HTML works together with **CSS** (styling) and **JavaScript** (behavior) to build complete web experiences.
 
----
-
-## Table of Contents
-
-1. [Basic Structure](#basic-structure)
-2. [Doctype & Meta Tags](#doctype--meta-tags)
-3. [Headings](#headings)
-4. [Paragraphs & Text](#paragraphs--text)
-5. [Text Formatting](#text-formatting)
-6. [Links](#links)
-7. [Images](#images)
-8. [Lists](#lists)
-9. [Tables](#tables)
-10. [Forms](#forms)
-11. [Input Types](#input-types)
-12. [Form Attributes](#form-attributes)
-13. [Buttons](#buttons)
-14. [Divs & Spans](#divs--spans)
-15. [Semantic Elements](#semantic-elements)
-16. [Audio & Video](#audio--video)
-17. [iFrames](#iframes)
-18. [Attributes](#attributes)
-19. [Global Attributes](#global-attributes)
-20. [Classes & IDs](#classes--ids)
-21. [Comments](#comments)
-22. [Entities & Special Characters](#entities--special-characters)
-23. [Head Elements](#head-elements)
-24. [Linking CSS & JS](#linking-css--js)
-25. [Block vs Inline Elements](#block-vs-inline-elements)
-26. [HTML5 Semantic Layout](#html5-semantic-layout)
-27. [Data Attributes](#data-attributes)
-28. [Accessibility (ARIA)](#accessibility-aria)
-29. [Meta for SEO & Social](#meta-for-seo--social)
-30. [Best Practices](#best-practices)
-
----
 
 ## Basic Structure
 
