@@ -2,7 +2,6 @@
 
 **Python** is a high-level, interpreted, general-purpose programming language created by **Guido van Rossum** and first released in **1991**. Python emphasizes **code readability** and simplicity — its clean syntax lets developers express ideas in fewer lines than most other languages. Python is used everywhere: **web development**, **data science**, **machine learning**, **automation**, **scripting**, **APIs**, and more. It runs on Windows, Linux, and macOS, and comes with a massive standard library plus a huge ecosystem of third-party packages via **pip**.
 
-
 ## Basic Syntax
 
 **Definition:** Python uses indentation (spaces) instead of curly braces to define code blocks — no semicolons needed.
