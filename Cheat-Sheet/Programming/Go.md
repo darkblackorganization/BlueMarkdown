@@ -1,57 +1,8 @@
-# Go (Golang) Cheat Sheet
 
 ## Introduction
 
 **Go** (also called **Golang**) is an open-source, statically typed, compiled programming language designed at **Google** by Robert Griesemer, Rob Pike, and Ken Thompson, released in **2009**. Go was built to solve the problems of large-scale software engineering — fast compilation, simple syntax, built-in concurrency, and efficient execution. It combines the performance of C with the readability of Python. Go is widely used for **web servers**, **APIs**, **CLI tools**, **cloud infrastructure**, **microservices**, and **DevOps tooling**. Famous Go projects include Docker, Kubernetes, Terraform, and Hugo.
 
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [Variables & Constants](#variables--constants)
-3. [Data Types](#data-types)
-4. [Type Conversion](#type-conversion)
-5. [String Operations](#string-operations)
-6. [Operators](#operators)
-7. [If Statements](#if-statements)
-8. [Switch Statement](#switch-statement)
-9. [For Loop](#for-loop)
-10. [Arrays](#arrays)
-11. [Slices](#slices)
-12. [Maps](#maps)
-13. [Structs](#structs)
-14. [Pointers](#pointers)
-15. [Functions](#functions)
-16. [Variadic Functions](#variadic-functions)
-17. [Closures](#closures)
-18. [Methods](#methods)
-19. [Interfaces](#interfaces)
-20. [Embedding](#embedding)
-21. [Error Handling](#error-handling)
-22. [Panic & Recover](#panic--recover)
-23. [Goroutines](#goroutines)
-24. [Channels](#channels)
-25. [Select Statement](#select-statement)
-26. [sync Package](#sync-package)
-27. [Defer](#defer)
-28. [Packages & Modules](#packages--modules)
-29. [Importing Packages](#importing-packages)
-30. [File I/O](#file-io)
-31. [JSON](#json)
-32. [HTTP Server](#http-server)
-33. [HTTP Client](#http-client)
-34. [Context](#context)
-35. [Testing](#testing)
-36. [Generics](#generics)
-37. [Common Standard Library](#common-standard-library)
-38. [CLI with os & flag](#cli-with-os--flag)
-39. [Regular Expressions](#regular-expressions)
-40. [Debugging & Tools](#debugging--tools)
-41. [Tips & Tricks](#tips--tricks)
-42. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax
 
