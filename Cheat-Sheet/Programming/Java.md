@@ -1,62 +1,7 @@
-# Java Cheat Sheet
 
 ## Introduction
 
 **Java** is a high-level, class-based, object-oriented programming language developed by **James Gosling** at **Sun Microsystems** (now owned by Oracle) and released in **1995**. Java follows the principle of **"Write Once, Run Anywhere"** — code compiled to bytecode runs on any platform with a Java Virtual Machine (JVM). Java is statically typed, strongly typed, and platform-independent. It is widely used for **enterprise applications**, **Android development**, **web backends**, **big data**, and **microservices**. Major frameworks include Spring, Hibernate, and Maven. Java is one of the most popular programming languages in the world.
-
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [Variables & Data Types](#variables--data-types)
-3. [Type Conversion](#type-conversion)
-4. [String Operations](#string-operations)
-5. [StringBuilder](#stringbuilder)
-6. [Operators](#operators)
-7. [If Statements](#if-statements)
-8. [Switch Statement](#switch-statement)
-9. [While Loop](#while-loop)
-10. [For Loop](#for-loop)
-11. [Loop Control](#loop-control)
-12. [Arrays](#arrays)
-13. [ArrayList](#arraylist)
-14. [LinkedList](#linkedlist)
-15. [HashMap](#hashmap)
-16. [HashSet](#hashset)
-17. [Stack & Queue](#stack--queue)
-18. [Methods](#methods)
-19. [Classes & Objects](#classes--objects)
-20. [Constructors](#constructors)
-21. [Access Modifiers](#access-modifiers)
-22. [Static Members](#static-members)
-23. [Inheritance](#inheritance)
-24. [Polymorphism](#polymorphism)
-25. [Abstraction](#abstraction)
-26. [Interfaces](#interfaces)
-27. [Enums](#enums)
-28. [Generics](#generics)
-29. [Exception Handling](#exception-handling)
-30. [File I/O](#file-io)
-31. [Lambda Expressions](#lambda-expressions)
-32. [Streams API](#streams-api)
-33. [Optional](#optional)
-34. [Functional Interfaces](#functional-interfaces)
-35. [Multithreading](#multithreading)
-36. [Synchronization](#synchronization)
-37. [Java Collections Framework](#java-collections-framework)
-38. [Comparable & Comparator](#comparable--comparator)
-39. [Records (Java 16+)](#records-java-16)
-40. [Sealed Classes (Java 17+)](#sealed-classes-java-17)
-41. [Pattern Matching](#pattern-matching)
-42. [Date & Time](#date--time)
-43. [Regular Expressions](#regular-expressions)
-44. [Input / Output](#input--output)
-45. [Useful Utility Classes](#useful-utility-classes)
-46. [Debugging & Tools](#debugging--tools)
-47. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax
 
