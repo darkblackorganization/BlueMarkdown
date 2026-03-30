@@ -1,50 +1,8 @@
-# CSS Cheat Sheet
 
 ## Introduction
 
 **CSS** (Cascading Style Sheets) is a stylesheet language used to describe the **visual presentation** of HTML documents. Created by **Håkon Wium Lie** and released in **1996**, CSS separates content (HTML) from design (CSS). It controls layout, colors, fonts, spacing, animations, and responsiveness. The "cascading" in CSS means that multiple style rules can apply to one element — specificity and order determine which one wins. The current standard is **CSS3**, which introduced features like Flexbox, Grid, animations, variables, and media queries.
 
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [Selectors](#selectors)
-3. [Combinators](#combinators)
-4. [Pseudo-classes](#pseudo-classes)
-5. [Pseudo-elements](#pseudo-elements)
-6. [Specificity & Cascade](#specificity--cascade)
-7. [CSS Variables (Custom Properties)](#css-variables-custom-properties)
-8. [Colors](#colors)
-9. [Units & Values](#units--values)
-10. [Box Model](#box-model)
-11. [Display](#display)
-12. [Positioning](#positioning)
-13. [Flexbox](#flexbox)
-14. [CSS Grid](#css-grid)
-15. [Typography](#typography)
-16. [Backgrounds](#backgrounds)
-17. [Borders](#borders)
-18. [Shadows](#shadows)
-19. [Overflow](#overflow)
-20. [Opacity & Visibility](#opacity--visibility)
-21. [Transforms](#transforms)
-22. [Transitions](#transitions)
-23. [Animations](#animations)
-24. [Responsive Design & Media Queries](#responsive-design--media-queries)
-25. [Filters](#filters)
-26. [Gradients](#gradients)
-27. [Object Fit & Object Position](#object-fit--object-position)
-28. [Scroll Behavior](#scroll-behavior)
-29. [Clipping & Masking](#clipping--masking)
-30. [CSS Functions](#css-functions)
-31. [At-Rules](#at-rules)
-32. [Logical Properties](#logical-properties)
-33. [Container Queries](#container-queries)
-34. [Useful Snippets](#useful-snippets)
-35. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax
 
