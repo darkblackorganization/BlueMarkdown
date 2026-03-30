@@ -1,45 +1,7 @@
-# Markdown Cheat Sheet
 
 ## Introduction
 
 **Markdown** is a lightweight markup language created by **John Gruber** in **2004** with the goal of making it easy to write formatted text using a plain text editor. Markdown converts simple symbols like `#`, `*`, and `>` into HTML — making it readable as plain text AND rendered beautifully. It is used everywhere: **GitHub**, **README files**, **documentation**, **blogs**, **notes**, **Jupyter Notebooks**, **Discord**, **Slack**, and **many more platforms**. Different platforms support different flavors — the most common is **CommonMark** (standard), **GitHub Flavored Markdown (GFM)**, and **Extended Markdown**.
-
----
-
-## Table of Contents
-
-1. [Headings](#headings)
-2. [Paragraphs & Line Breaks](#paragraphs--line-breaks)
-3. [Text Formatting](#text-formatting)
-4. [Blockquotes](#blockquotes)
-5. [Code](#code)
-6. [Links](#links)
-7. [Images](#images)
-8. [Unordered Lists](#unordered-lists)
-9. [Ordered Lists](#ordered-lists)
-10. [Nested Lists](#nested-lists)
-11. [Task Lists](#task-lists)
-12. [Horizontal Rules](#horizontal-rules)
-13. [Tables](#tables)
-14. [Footnotes](#footnotes)
-15. [HTML in Markdown](#html-in-markdown)
-16. [Escaping Characters](#escaping-characters)
-17. [Emoji](#emoji)
-18. [Comments](#comments)
-19. [Definition Lists](#definition-lists)
-20. [Abbreviations](#abbreviations)
-21. [Superscript & Subscript](#superscript--subscript)
-22. [Highlight](#highlight)
-23. [Math (LaTeX)](#math-latex)
-24. [Diagrams (Mermaid)](#diagrams-mermaid)
-25. [Collapsible Sections](#collapsible-sections)
-26. [Badges & Shields](#badges--shields)
-27. [GitHub Flavored Markdown](#github-flavored-markdown)
-28. [Front Matter (YAML)](#front-matter-yaml)
-29. [Markdown in Different Platforms](#markdown-in-different-platforms)
-30. [Best Practices](#best-practices)
-
----
 
 ## Headings
 
