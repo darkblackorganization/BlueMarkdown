@@ -1,50 +1,7 @@
-# React Cheat Sheet
 
 ## Introduction
 
 **React** is a free, open-source JavaScript library for building user interfaces, created by **Jordan Walke** at **Facebook** and released in **2013**. React uses a **component-based architecture** — UIs are built from small, reusable pieces called components. React's **Virtual DOM** efficiently updates only what changes on the real page, making it fast. With the introduction of **Hooks** in React 16.8 (2019), functional components became the standard way to write React. React is used for web apps (react-dom), mobile apps (React Native), and static sites (Next.js). It is the most popular frontend library in the world.
-
----
-
-## Table of Contents
-
-1. [Basic Syntax & JSX](#basic-syntax--jsx)
-2. [Components](#components)
-3. [Props](#props)
-4. [State — useState](#state--usestate)
-5. [Event Handling](#event-handling)
-6. [Conditional Rendering](#conditional-rendering)
-7. [Lists & Keys](#lists--keys)
-8. [Forms & Controlled Components](#forms--controlled-components)
-9. [useEffect](#useeffect)
-10. [useRef](#useref)
-11. [useContext](#usecontext)
-12. [useReducer](#usereducer)
-13. [useMemo](#usememo)
-14. [useCallback](#usecallback)
-15. [Custom Hooks](#custom-hooks)
-16. [Component Lifecycle (with Hooks)](#component-lifecycle-with-hooks)
-17. [Fragments](#fragments)
-18. [Portals](#portals)
-19. [Error Boundaries](#error-boundaries)
-20. [Lazy Loading & Suspense](#lazy-loading--suspense)
-21. [Higher-Order Components](#higher-order-components)
-22. [Render Props](#render-props)
-23. [Compound Components](#compound-components)
-24. [Forwarding Refs](#forwarding-refs)
-25. [Context API (Full Pattern)](#context-api-full-pattern)
-26. [Performance Optimization](#performance-optimization)
-27. [React.memo](#reactmemo)
-28. [Styling in React](#styling-in-react)
-29. [React Router (v6)](#react-router-v6)
-30. [Data Fetching Patterns](#data-fetching-patterns)
-31. [TypeScript with React](#typescript-with-react)
-32. [Testing React Components](#testing-react-components)
-33. [Project Setup](#project-setup)
-34. [Tips & Tricks](#tips--tricks)
-35. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax & JSX
 
