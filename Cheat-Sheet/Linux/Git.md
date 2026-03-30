@@ -1,44 +1,8 @@
-# Git Cheat Sheet
 
 ## Introduction
 
 **Git** is a free, open-source **distributed version control system** created by **Linus Torvalds** in **2005** for managing the Linux kernel source code. Git tracks changes to files over time — letting you save snapshots of your project, go back to any previous state, collaborate with others, and manage multiple versions of your work simultaneously. Unlike older systems, every developer has a **full copy of the entire history** on their machine. Git is the most widely used version control system in the world and is the backbone of platforms like **GitHub**, **GitLab**, and **Bitbucket**.
 
----
-
-## Table of Contents
-
-1. [Core Concepts](#core-concepts)
-2. [Installation & Setup](#installation--setup)
-3. [Initialize a Repository](#initialize-a-repository)
-4. [Staging & Committing](#staging--committing)
-5. [Viewing Status & History](#viewing-status--history)
-6. [Undoing Changes](#undoing-changes)
-7. [Branches](#branches)
-8. [Merging](#merging)
-9. [Rebasing](#rebasing)
-10. [Remote Repositories](#remote-repositories)
-11. [Fetch, Pull & Push](#fetch-pull--push)
-12. [Cloning](#cloning)
-13. [Tags](#tags)
-14. [Stashing](#stashing)
-15. [Cherry Pick](#cherry-pick)
-16. [Git Diff](#git-diff)
-17. [Git Log](#git-log)
-18. [Git Blame](#git-blame)
-19. [Searching](#searching)
-20. [Submodules](#submodules)
-21. [Git Hooks](#git-hooks)
-22. [Git Aliases](#git-aliases)
-23. [gitignore](#gitignore)
-24. [gitattributes](#gitattributes)
-25. [Git Workflows](#git-workflows)
-26. [GitHub Flow](#github-flow)
-27. [Debugging with Git](#debugging-with-git)
-28. [Tips & Tricks](#tips--tricks)
-29. [Best Practices](#best-practices)
-
----
 
 ## Core Concepts
 
