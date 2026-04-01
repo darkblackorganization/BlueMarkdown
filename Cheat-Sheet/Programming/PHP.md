@@ -1,51 +1,6 @@
-# PHP Cheat Sheet
-
 ## Introduction
 
 **PHP** (Hypertext Preprocessor) is a widely-used, open-source, server-side scripting language designed specifically for web development. Created by **Rasmus Lerdorf** in **1994**, PHP code is embedded directly into HTML and runs on the server before the page is sent to the browser. PHP powers over **75% of all websites** with a server-side language, including WordPress, Facebook (early days), Wikipedia, and countless web apps. PHP 8.x (released 2020) brought major improvements including JIT compilation, named arguments, union types, match expressions, and fibers. PHP is excellent for **web backends, APIs, CMS platforms, and database-driven applications**.
-
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [Variables](#variables)
-3. [Data Types](#data-types)
-4. [Type Juggling & Casting](#type-juggling--casting)
-5. [String Operations](#string-operations)
-6. [Numbers & Math](#numbers--math)
-7. [Operators](#operators)
-8. [If Statements](#if-statements)
-9. [Switch & Match](#switch--match)
-10. [While Loops](#while-loops)
-11. [For Loops](#for-loops)
-12. [Loop Control](#loop-control)
-13. [Functions](#functions)
-14. [Arrays](#arrays)
-15. [Array Functions](#array-functions)
-16. [Associative Arrays](#associative-arrays)
-17. [Multidimensional Arrays](#multidimensional-arrays)
-18. [Classes & OOP](#classes--oop)
-19. [Inheritance](#inheritance)
-20. [Interfaces & Abstract Classes](#interfaces--abstract-classes)
-21. [Traits](#traits)
-22. [Namespaces & Autoloading](#namespaces--autoloading)
-23. [Error Handling](#error-handling)
-24. [File Handling](#file-handling)
-25. [Form Handling](#form-handling)
-26. [Working with JSON](#working-with-json)
-27. [Regular Expressions](#regular-expressions)
-28. [Date & Time](#date--time)
-29. [Database — PDO](#database--pdo)
-30. [Sessions & Cookies](#sessions--cookies)
-31. [HTTP Headers & Redirects](#http-headers--redirects)
-32. [PHP 8 Features](#php-8-features)
-33. [Composer & Packages](#composer--packages)
-34. [Security](#security)
-35. [Debugging & Tools](#debugging--tools)
-36. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax
 
