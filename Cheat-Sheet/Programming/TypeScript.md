@@ -1,52 +1,7 @@
-# TypeScript Cheat Sheet
 
 ## Introduction
 
 **TypeScript** is a strongly typed superset of JavaScript developed by **Microsoft** and released in **2012**. It adds **optional static typing**, classes, interfaces, generics, and modern ECMAScript features that compile down to plain JavaScript. TypeScript catches type errors at compile time — before code runs — making large codebases easier to maintain, refactor, and understand. It is used everywhere JavaScript is used: **web frontends** (React, Angular, Vue), **backends** (Node.js), **mobile** (React Native), and **tooling**. Angular is built entirely in TypeScript, and most major JavaScript projects have added TypeScript support.
-
----
-
-## Table of Contents
-
-1. [Basic Syntax](#basic-syntax)
-2. [Type Annotations](#type-annotations)
-3. [Primitive Types](#primitive-types)
-4. [Special Types](#special-types)
-5. [Type Inference](#type-inference)
-6. [Type Assertions](#type-assertions)
-7. [Union Types](#union-types)
-8. [Intersection Types](#intersection-types)
-9. [Literal Types](#literal-types)
-10. [Template Literal Types](#template-literal-types)
-11. [Arrays & Tuples](#arrays--tuples)
-12. [Objects & Interfaces](#objects--interfaces)
-13. [Type Aliases](#type-aliases)
-14. [Interface vs Type](#interface-vs-type)
-15. [Functions](#functions)
-16. [Generics](#generics)
-17. [Generic Constraints](#generic-constraints)
-18. [Enums](#enums)
-19. [Classes](#classes)
-20. [Access Modifiers](#access-modifiers)
-21. [Abstract Classes](#abstract-classes)
-22. [Decorators](#decorators)
-23. [Modules](#modules)
-24. [Namespaces](#namespaces)
-25. [Utility Types](#utility-types)
-26. [Conditional Types](#conditional-types)
-27. [Mapped Types](#mapped-types)
-28. [Template Literal Types (Advanced)](#template-literal-types-advanced)
-29. [Index Types](#index-types)
-30. [Declaration Files (.d.ts)](#declaration-files-dts)
-31. [Type Guards](#type-guards)
-32. [Discriminated Unions](#discriminated-unions)
-33. [Nullability & Optional Chaining](#nullability--optional-chaining)
-34. [TypeScript with React](#typescript-with-react)
-35. [TypeScript Config (tsconfig.json)](#typescript-config-tsconfigjson)
-36. [Tips & Tricks](#tips--tricks)
-37. [Best Practices](#best-practices)
-
----
 
 ## Basic Syntax
 
