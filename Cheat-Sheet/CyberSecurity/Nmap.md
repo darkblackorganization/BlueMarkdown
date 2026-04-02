@@ -1,4 +1,3 @@
-# Nmap Cheat Sheet
 
 ## Introduction
 
@@ -6,33 +5,6 @@
 
 > ⚠️ **Legal Warning:** Unauthorized scanning is illegal in many jurisdictions. Always have explicit written permission before scanning any network or system you do not own.
 
----
-
-## Table of Contents
-
-1. [Basic Usage](#basic-usage)
-2. [Target Specification](#target-specification)
-3. [Host Discovery](#host-discovery)
-4. [Port Specification](#port-specification)
-5. [Scan Techniques](#scan-techniques)
-6. [Service & Version Detection](#service--version-detection)
-7. [OS Detection](#os-detection)
-8. [Timing & Performance](#timing--performance)
-9. [Firewall & IDS Evasion](#firewall--ids-evasion)
-10. [Output Formats](#output-formats)
-11. [Nmap Scripting Engine (NSE)](#nmap-scripting-engine-nse)
-12. [NSE Script Categories](#nse-script-categories)
-13. [Useful NSE Scripts](#useful-nse-scripts)
-14. [IPv6 Scanning](#ipv6-scanning)
-15. [Nmap with Proxies & Tor](#nmap-with-proxies--tor)
-16. [Ndiff — Compare Scans](#ndiff--compare-scans)
-17. [Zenmap — GUI Frontend](#zenmap--gui-frontend)
-18. [Common Scan Profiles](#common-scan-profiles)
-19. [Reading Nmap Output](#reading-nmap-output)
-20. [Tips & Tricks](#tips--tricks)
-21. [Best Practices](#best-practices)
-
----
 
 ## Basic Usage
 
